@@ -1,7 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 
-// crear el servidor
+// crear el servidor pruba
 const app = express();
 
 // creando el puerto de arranque del servidor para subir
